@@ -5144,7 +5144,7 @@
 	{
 		"clientType": "3",
 		"orderType": "Services",
-		"tenderType": "konkurs_nieograniczony",
+		"tenderType": "1",
 		"noticeType": "3",
 		"noticeTypeTed": null,
 		"noticeTypeDisplayName": null,
@@ -5886,7 +5886,7 @@
 	{
 		"clientType": "3",
 		"orderType": "Services",
-		"tenderType": "konkurs_nieograniczony",
+		"tenderType": "1",
 		"noticeType": "3",
 		"noticeTypeTed": null,
 		"noticeTypeDisplayName": null,
@@ -5968,7 +5968,7 @@
 	{
 		"clientType": "3",
 		"orderType": "Services",
-		"tenderType": "konkurs_nieograniczony",
+		"tenderType": "1",
 		"noticeType": "3",
 		"noticeTypeTed": null,
 		"noticeTypeDisplayName": null,
